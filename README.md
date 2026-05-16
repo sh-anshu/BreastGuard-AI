@@ -85,5 +85,4 @@ The dataset contains 30 clinically significant diagnostic features including:
 
 and more.
 
-rfitting and improved prediction reliability.
 
